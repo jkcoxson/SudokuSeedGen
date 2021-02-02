@@ -1,0 +1,13 @@
+C:\Users\Jackson\source\repos\SeedGen\SeedGen\bin\Debug\netcoreapp3.1\SeedGen.exe
+C:\Users\Jackson\source\repos\SeedGen\SeedGen\bin\Debug\netcoreapp3.1\SeedGen.deps.json
+C:\Users\Jackson\source\repos\SeedGen\SeedGen\bin\Debug\netcoreapp3.1\SeedGen.runtimeconfig.json
+C:\Users\Jackson\source\repos\SeedGen\SeedGen\bin\Debug\netcoreapp3.1\SeedGen.runtimeconfig.dev.json
+C:\Users\Jackson\source\repos\SeedGen\SeedGen\bin\Debug\netcoreapp3.1\SeedGen.dll
+C:\Users\Jackson\source\repos\SeedGen\SeedGen\bin\Debug\netcoreapp3.1\SeedGen.pdb
+C:\Users\Jackson\source\repos\SeedGen\SeedGen\obj\Debug\netcoreapp3.1\SeedGen.csproj.CoreCompileInputs.cache
+C:\Users\Jackson\source\repos\SeedGen\SeedGen\obj\Debug\netcoreapp3.1\SeedGen.AssemblyInfoInputs.cache
+C:\Users\Jackson\source\repos\SeedGen\SeedGen\obj\Debug\netcoreapp3.1\SeedGen.AssemblyInfo.cs
+C:\Users\Jackson\source\repos\SeedGen\SeedGen\obj\Debug\netcoreapp3.1\SeedGen.dll
+C:\Users\Jackson\source\repos\SeedGen\SeedGen\obj\Debug\netcoreapp3.1\SeedGen.pdb
+C:\Users\Jackson\source\repos\SeedGen\SeedGen\obj\Debug\netcoreapp3.1\SeedGen.genruntimeconfig.cache
+C:\Users\Jackson\source\repos\SeedGen\SeedGen\obj\Debug\netcoreapp3.1\SeedGen.csprojAssemblyReference.cache

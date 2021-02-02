@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>SeedGen</id>
+    <version>1.0.0</version>
+    <authors>SeedGen</authors>
+    <owners>SeedGen</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework=".NETCoreApp3.1" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\Jackson\source\repos\SeedGen\SeedGen\bin\Debug\netcoreapp3.1\SeedGen.runtimeconfig.json" target="lib\netcoreapp3.1\SeedGen.runtimeconfig.json" />
+    <file src="C:\Users\Jackson\source\repos\SeedGen\SeedGen\bin\Debug\netcoreapp3.1\SeedGen.dll" target="lib\netcoreapp3.1\SeedGen.dll" />
+  </files>
+</package>
